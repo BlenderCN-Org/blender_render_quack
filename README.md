@@ -9,5 +9,3 @@ OGG, AIFF, etc.) in the prefrences of the add-on.
 Packaged sounds are licensed under a Creative Commons 0 Public Domain license
 
   * Rubber-Duck_Squeezes by **Matthias Fath** - https://freesound.org/people/LamaMakesMusic/sounds/403507/
-
-> [Orignal code by Jason van Gumster.](https://github.com/Fweeb/blender_render_music)
