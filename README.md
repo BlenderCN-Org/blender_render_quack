@@ -1,4 +1,5 @@
 ## Render Quack Add-on for Blender
+[![Blender 2.79b](https://img.shields.io/badge/blender-2.79b-brightgreen.svg?longCache=true&style=flat)](https://www.blender.org/download/releases/2-79/)
 
 You can optionally enable and disable the quack from the Render panel
 of Render Properties.
